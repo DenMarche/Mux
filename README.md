@@ -1,2 +1,1 @@
-# Mux
-Runtime string encryptor for CPP
+# Yes, this work on Windows 10 - 11
