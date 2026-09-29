@@ -1,4 +1,4 @@
-# mux
+# Mux
 
 A string encryption library for C++.
 
