@@ -4,7 +4,7 @@ A string encryption library for C++.
 
 Mux uses ciphers - **RC4, XTEA, Salsa, ChaCha** rather than plain XOR, so the encrypted output is harder to pattern-match or decrypt, *but* the cost is speed.
 
-**The decrypted output can be retreieved by a runtime debugger unless you wipe it with "wipe_all()"!**
+**The decrypted output can be retreieved by a runtime debugger unless you wipe it with "wipe_all()" !**
 
 **See before ( 1 ) and after ( 2 ).**
 
